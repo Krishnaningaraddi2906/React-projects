@@ -1,0 +1,19 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+.timeDiv
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+  height: 300px;
+  width: 600px;
+  box-shadow: 10px 10px 10px red;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background-color:#010b13;
+}
