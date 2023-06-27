@@ -1,0 +1,30 @@
+
+.libox
+{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    height: 35px;
+    width: 270px;
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    margin-left: 15px;
+    font-weight: bolder;
+    
+}
+
+.Removebutton
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.Removebutton:hover
+{
+    background-color:red;
+}
